@@ -125,4 +125,4 @@ Me chamo Nathalia Santos, tenho 27 anos e sou Soteropolitana. Atualmente, estou 
 
 </p>
 
-![Snake Animation](https://github.com/herah6710/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/herah6710/herah6710/blob/output/github-contribution-grid-snake.svg)
